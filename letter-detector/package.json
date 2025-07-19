@@ -1,0 +1,15 @@
+{
+  "name": "letter-detector",
+  "version": "1.0.0",
+  "main": "detector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  }
+}
